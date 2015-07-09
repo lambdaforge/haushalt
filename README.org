@@ -17,32 +17,76 @@ lein run
 #+END_SRC
 
 **** TODOs
+***** TODO compile possible back- and frontend architecture	     :design:
+      DEADLINE: <2015-07-09 Do>
+     :LOGBOOK:  
+     - Note taken on [2015-07-09 Do 10:27] \\
+       - backend: 
+         - [[https://github.com/http-kit/http-kit][http-kit]] : http-server
+         - [[http://docs.datomic.com/][datomic]] : database
+         - [[https://github.com/cgrand/][enlive]] : html templating
+         - [[https://github.com/ptaoussanis/timbre][timbre]] : logging
+         - [[https://github.com/clojurewerkz/mailer][mailer]] : user management by mailing
+       - frontend:
+         - [[https://github.com/omcljs/om][om]] : react in cljs, simple ui representation, virtual dom
+         - [[https://github.com/ckirkendall/kioo][kioo]] : frontend templating
+         - [[https://github.com/ptaoussanis/sente][sente]] : websockets for client-server-communication
+       - dev tools:
+         - [[https://github.com/bhauman/lein-][figwheel]]: non-plus-ultra frontend refresh tool
+     CLOCK: [2015-07-09 Do 10:26]--[2015-07-09 Do 10:37] =>  0:11
+     :END:      
+     :PROPERTIES:
+     :Created: [2015-07-09 Do 10:19]
+     :Assigned_to: kordano
+     :ORDERED:  t
+     :END:
+***** TODO build frontend using reagent and figwheel		    :feature:
+     DEADLINE: <2015-07-10 Fr>
+     :PROPERTIES:
+     :Created: [2015-07-09 Do 10:09]
+     :Assigned_to: kordano
+     :END:
 ***** TODO design data model					     :design:
      DEADLINE: <2015-07-11 Sa>
+     :LOGBOOK:  
+     - Note taken on [2015-07-09 Do 10:23] \\
+       What is the first use case?
+     CLOCK: [2015-07-09 Do 10:16]--[2015-07-09 Do 10:25] =>  0:09
      CLOCK: [2015-07-08 Mi 11:15]--[2015-07-08 Mi 11:26] =>  0:11
+     :END:      
      :PROPERTIES:
      :Created: [2015-07-08 Mi 11:14]
      :Assigned_to: kordano
      :END:
-***** TODO Create prototype for simple web frontend		    :feature:
-       DEADLINE: <2015-07-13 Mo>
-       CLOCK: [2015-07-08 Mi 11:27]
-       :PROPERTIES:
-       :Created: [2015-07-08 Mi 11:11]
-       :Assigned_to: kordano
-       :END:
+***** CANCELED Create prototype for simple web frontend		    :feature:
+      CLOSED: [2015-07-09 Do 10:12] DEADLINE: <2015-07-13 Mo>
+      :LOGBOOK:  
+      - State "CANCELED"   from "TODO"       [2015-07-09 Do 10:12] \\
+	moved to another frontend
+       CLOCK: [2015-07-08 Mi 11:27]--[2015-07-08 Mi 12:07] =>  0:40
+      :END:      
+      :PROPERTIES:
+      :Created: [2015-07-08 Mi 11:11]
+      :Assigned_to: kordano
+      :END:
 ***** TODO sketch input and finance-table view 			     :design:
-      DEADLINE: <2015-07-12 So>
+      DEADLINE: <2015-07-10 Fr>
+      :LOGBOOK: 
       CLOCK: [2015-07-08 Mi 11:01]--[2015-07-08 Mi 11:14] =>  0:13
+      :END:      
     :PROPERTIES:
     :Created: [2015-07-06 Mo 13:21]
     :Assigned_to: kordano
     :END:
 ***** DONE publish first dev blog post				     :design:
       CLOSED: [2015-07-06 Mo 17:11] DEADLINE: <2015-07-09 Do>
+      :LOGBOOK:
+      - Note taken on [2015-07-09 Do 10:27] \\
+	See [[http://lambda-kollektiv.github.io/2015/07/06/road_to_haushalt/][blog post]]
       - State "DONE"       from "STARTED"    [2015-07-06 Mo 17:11]
       - State "STARTED"    from "TODO"       [2015-07-06 Mo 17:03]
       CLOCK: [2015-07-06 Mo 17:03]--[2015-07-06 Mo 17:11] =>  0:08
+      :END:
      :PROPERTIES:
      :Created: [2015-07-06 Mo 13:25]
      :Assigned_to: kordano

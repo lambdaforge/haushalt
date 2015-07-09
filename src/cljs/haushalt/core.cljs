@@ -4,7 +4,7 @@
 
 (enable-console-print!)
 
-(defonce app-state (atom {:text "Hello Chestnut!"}))
+(defonce app-state (atom {:expenses #{}}))
 
 (defn main []
   (om/root
@@ -12,6 +12,10 @@
       (reify
         om/IRender
         (render [_]
-          (dom/h1 nil (:text app)))))
+          (dom/h4 nil "Select category")
+          (dom/input #js {:id "category-input"}))))
     app-state
     {:target (. js/document (getElementById "app"))}))
+
+
+
