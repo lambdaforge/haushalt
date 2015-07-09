@@ -6,6 +6,7 @@
 #+STARTUP: overview 
 #+STARTUP: hidestars
 #+PROPERTY: Assigned_to_ALL kordano jeth64
+#+OPTIONS: d:nil
 **** Overview
 
 A web service for organizing your domestic resources. 
@@ -20,6 +21,7 @@ lein run
 ***** TODO compile possible back- and frontend architecture	     :design:
       DEADLINE: <2015-07-09 Do>
      :LOGBOOK:  
+     CLOCK: [2015-07-09 Do 10:44]
      - Note taken on [2015-07-09 Do 10:27] \\
        - backend: 
          - [[https://github.com/http-kit/http-kit][http-kit]] : http-server
