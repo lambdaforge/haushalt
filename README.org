@@ -18,10 +18,11 @@ lein run
 #+END_SRC
 
 **** TODOs
-***** TODO compile possible back- and frontend architecture	     :design:
-      DEADLINE: <2015-07-09 Do>
+***** DONE compile possible back- and frontend architecture	     :design:
+      CLOSED: [2015-07-09 Do 15:15] DEADLINE: <2015-07-09 Do>
      :LOGBOOK:  
-     CLOCK: [2015-07-09 Do 10:44]
+     - State "DONE"       from "TODO"       [2015-07-09 Do 15:15]
+     CLOCK: [2015-07-09 Do 10:44]--[2015-07-09 Do 11:11] =>  0:27
      - Note taken on [2015-07-09 Do 10:27] \\
        - backend: 
          - [[https://github.com/http-kit/http-kit][http-kit]] : http-server
@@ -43,8 +44,14 @@ lein run
      :Assigned_to: kordano
      :ORDERED:  t
      :END:
-***** TODO build frontend using reagent and figwheel		    :feature:
-     DEADLINE: <2015-07-10 Fr>
+***** STARTED build prototype input and table frontend using om and figwheel :feature:
+      DEADLINE: <2015-07-10 Fr>
+     :LOGBOOK:  
+     CLOCK: [2015-07-09 Do 15:53]--[2015-07-09 Do 16:32] =>  0:39
+     - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
+     CLOCK: [2015-07-09 Do 12:41]--[2015-07-09 Do 13:13] =>  0:32
+     CLOCK: [2015-07-09 Do 11:17]--[2015-07-09 Do 11:40] =>  0:23
+     :END:      
      :PROPERTIES:
      :Created: [2015-07-09 Do 10:09]
      :Assigned_to: kordano
@@ -61,20 +68,10 @@ lein run
      :Created: [2015-07-08 Mi 11:14]
      :Assigned_to: kordano
      :END:
-***** CANCELED Create prototype for simple web frontend		    :feature:
-      CLOSED: [2015-07-09 Do 10:12] DEADLINE: <2015-07-13 Mo>
-      :LOGBOOK:  
-      - State "CANCELED"   from "TODO"       [2015-07-09 Do 10:12] \\
-	moved to another frontend
-       CLOCK: [2015-07-08 Mi 11:27]--[2015-07-08 Mi 12:07] =>  0:40
-      :END:      
-      :PROPERTIES:
-      :Created: [2015-07-08 Mi 11:11]
-      :Assigned_to: kordano
-      :END:
-***** TODO sketch input and finance-table view 			     :design:
+***** STARTED sketch input and finance-table view		     :design:
       DEADLINE: <2015-07-10 Fr>
       :LOGBOOK: 
+      - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
       CLOCK: [2015-07-08 Mi 11:01]--[2015-07-08 Mi 11:14] =>  0:13
       :END:      
     :PROPERTIES:
