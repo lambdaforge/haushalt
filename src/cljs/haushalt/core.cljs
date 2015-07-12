@@ -23,7 +23,7 @@
   [data owner]
   (let [expense {:category (om/get-state owner :category-text)
                  :expense (om/get-state owner :expense-value)}]
-    (om/transact! data :expenses (fn [old _] (conj old expense)))
+    (om/transact! data :expenses (fn [old _] (concat [expense] old)))
     (om/set-state! owner :category-text "")
     (om/set-state! owner :expense-value "")))
 
