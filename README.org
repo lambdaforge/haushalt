@@ -14,9 +14,9 @@ A web service for organizing your domestic resources.
 **** Usage
 
 #+BEGIN_SRC Bash
-lein run
+lein figwheel
 #+END_SRC
-
+Go to =localhost:3449=
 **** TODOs
 ***** DONE compile possible back- and frontend architecture	     :design:
       CLOSED: [2015-07-09 Do 15:15] DEADLINE: <2015-07-09 Do>
@@ -72,9 +72,10 @@ lein run
      :Created: [2015-07-08 Mi 11:14]
      :Assigned_to: kordano
      :END:
-***** STARTED sketch input and finance-table view		     :design:
-      DEADLINE: <2015-07-10 Fr>
+***** DONE sketch input and finance-table view			     :design:
+      CLOSED: [2015-07-12 So 20:10] DEADLINE: <2015-07-10 Fr>
       :LOGBOOK: 
+      - State "DONE"       from "STARTED"    [2015-07-12 So 20:10]
       - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
       CLOCK: [2015-07-08 Mi 11:01]--[2015-07-08 Mi 11:14] =>  0:13
       :END:      
