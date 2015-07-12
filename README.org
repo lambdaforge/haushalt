@@ -44,9 +44,13 @@ lein run
      :Assigned_to: kordano
      :ORDERED:  t
      :END:
-***** STARTED build prototype input and table frontend using om and figwheel :feature:
-      DEADLINE: <2015-07-10 Fr>
+***** DONE build prototype input and table frontend using om and figwheel :feature:
+      CLOSED: [2015-07-12 So 20:05] DEADLINE: <2015-07-10 Fr>
      :LOGBOOK:  
+     - State "DONE"       from "STARTED"    [2015-07-12 So 20:05]
+     CLOCK: [2015-07-12 So 19:37]--[2015-07-12 So 20:05] =>  0:28
+     CLOCK: [2015-07-10 Fr 17:25]--[2015-07-10 Fr 17:25] =>  0:00
+     CLOCK: [2015-07-09 Do 20:15]--[2015-07-09 Do 20:19] =>  0:04
      CLOCK: [2015-07-09 Do 15:53]--[2015-07-09 Do 16:32] =>  0:39
      - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
      CLOCK: [2015-07-09 Do 12:41]--[2015-07-09 Do 13:13] =>  0:32

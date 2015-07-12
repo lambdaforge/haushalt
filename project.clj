@@ -11,6 +11,7 @@
 
   :dependencies [[org.clojure/clojure "1.7.0-beta2"]
                  [org.clojure/clojurescript "0.0-3308"]
+                 [kioo "0.4.0"]
                  [org.omcljs/om "0.9.0"]]
 
   :min-lein-version "2.5.0"
