@@ -5,6 +5,7 @@
             [om.dom :as dom])
   (:require-macros [kioo.om :refer [defsnippet deftemplate]]))
 
+
 (enable-console-print!)
 
 ;; --- HELPERS ----
@@ -12,6 +13,7 @@
   "Store and update input text in view component"
   [e owner text]
   (om/set-state! owner text (.. e -target -value)))
+
 
 
 (defonce app-state

@@ -1,8 +1,5 @@
 #+TITLE: haushalt
 #+CATEGORY: haushalt
-#+TAGS: review bug feature research design 
-#+TODO: TODO(t) STARTED(s!) | FIXED(f!) DONE(d!) 
-#+TODO: CANCELED(c@)
 #+STARTUP: overview 
 #+STARTUP: hidestars
 #+PROPERTY: Assigned_to_ALL kordano jeth64
@@ -18,6 +15,16 @@ lein figwheel
 #+END_SRC
 Go to =localhost:3449=
 **** TODOs
+***** TODO experiment with less				     :design:feature:
+      DEADLINE: <2015-07-15 Mi>
+      :LOGBOOK:  
+      CLOCK: [2015-07-14 Di 09:46]--[2015-07-14 Di 10:18] =>  0:32
+      :END:      
+     :PROPERTIES:
+     :Created: [2015-07-14 Di 09:44]
+     :Associated_file: [[/home/konny/projects/haushalt/resources/public/css/styles.less]]
+     :Assigned_to: kordano
+     :END:
 ***** DONE compile possible back- and frontend architecture	     :design:
       CLOSED: [2015-07-09 Do 15:15] DEADLINE: <2015-07-09 Do>
      :LOGBOOK:  
@@ -61,7 +68,7 @@ Go to =localhost:3449=
      :Assigned_to: kordano
      :END:
 ***** TODO design data model					     :design:
-     DEADLINE: <2015-07-11 Sa>
+     DEADLINE: <2015-07-17 Fr>
      :LOGBOOK:  
      - Note taken on [2015-07-09 Do 10:23] \\
        What is the first use case?

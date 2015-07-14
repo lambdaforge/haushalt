@@ -20,6 +20,11 @@
             [lein-figwheel "0.3.7"]]
 
   :clean-targets ^{:protect false}["resources/public/js/compiled" "target"]
+
+  :figwheel
+  {:css-dirs ["resources/public/css"]
+
+   }
   
   :cljsbuild
   {:builds
