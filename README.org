@@ -15,56 +15,15 @@ lein figwheel
 #+END_SRC
 Go to =localhost:3449=
 **** TODOs
-***** TODO experiment with less				     :design:feature:
-      DEADLINE: <2015-07-15 Mi>
+***** DONE experiment with less				     :design:feature:
+      CLOSED: [2015-07-16 Do 08:59] DEADLINE: <2015-07-15 Mi>
       :LOGBOOK:  
+      - State "DONE"       from "TODO"       [2015-07-16 Do 08:59]
       CLOCK: [2015-07-14 Di 09:46]--[2015-07-14 Di 10:18] =>  0:32
       :END:      
      :PROPERTIES:
      :Created: [2015-07-14 Di 09:44]
      :Associated_file: [[/home/konny/projects/haushalt/resources/public/css/styles.less]]
-     :Assigned_to: kordano
-     :END:
-***** DONE compile possible back- and frontend architecture	     :design:
-      CLOSED: [2015-07-09 Do 15:15] DEADLINE: <2015-07-09 Do>
-     :LOGBOOK:  
-     - State "DONE"       from "TODO"       [2015-07-09 Do 15:15]
-     CLOCK: [2015-07-09 Do 10:44]--[2015-07-09 Do 11:11] =>  0:27
-     - Note taken on [2015-07-09 Do 10:27] \\
-       - backend: 
-         - [[https://github.com/http-kit/http-kit][http-kit]] : http-server
-         - [[http://docs.datomic.com/][datomic]] : database
-         - [[https://github.com/cgrand/][enlive]] : html templating
-         - [[https://github.com/ptaoussanis/timbre][timbre]] : logging
-         - [[https://github.com/clojurewerkz/mailer][mailer]] : user management by mailing
-       - frontend:
-         - [[https://github.com/omcljs/om][om]] : react in cljs, simple ui representation, virtual dom
-         - [[https://github.com/ckirkendall/kioo][kioo]] : frontend templating
-         - [[https://github.com/ptaoussanis/sente][sente]] : websockets for client-server-communication
-       - dev tools:
-         - [[https://github.com/bhauman/lein-][figwheel]]: non-plus-ultra frontend refresh tool
-	 - [[https://github.com/weavejester/environ][environ]]: environment management
-     CLOCK: [2015-07-09 Do 10:26]--[2015-07-09 Do 10:37] =>  0:11
-     :END:      
-     :PROPERTIES:
-     :Created: [2015-07-09 Do 10:19]
-     :Assigned_to: kordano
-     :ORDERED:  t
-     :END:
-***** DONE build prototype input and table frontend using om and figwheel :feature:
-      CLOSED: [2015-07-12 So 20:05] DEADLINE: <2015-07-10 Fr>
-     :LOGBOOK:  
-     - State "DONE"       from "STARTED"    [2015-07-12 So 20:05]
-     CLOCK: [2015-07-12 So 19:37]--[2015-07-12 So 20:05] =>  0:28
-     CLOCK: [2015-07-10 Fr 17:25]--[2015-07-10 Fr 17:25] =>  0:00
-     CLOCK: [2015-07-09 Do 20:15]--[2015-07-09 Do 20:19] =>  0:04
-     CLOCK: [2015-07-09 Do 15:53]--[2015-07-09 Do 16:32] =>  0:39
-     - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
-     CLOCK: [2015-07-09 Do 12:41]--[2015-07-09 Do 13:13] =>  0:32
-     CLOCK: [2015-07-09 Do 11:17]--[2015-07-09 Do 11:40] =>  0:23
-     :END:      
-     :PROPERTIES:
-     :Created: [2015-07-09 Do 10:09]
      :Assigned_to: kordano
      :END:
 ***** TODO design data model					     :design:
@@ -77,30 +36,6 @@ Go to =localhost:3449=
      :END:      
      :PROPERTIES:
      :Created: [2015-07-08 Mi 11:14]
-     :Assigned_to: kordano
-     :END:
-***** DONE sketch input and finance-table view			     :design:
-      CLOSED: [2015-07-12 So 20:10] DEADLINE: <2015-07-10 Fr>
-      :LOGBOOK: 
-      - State "DONE"       from "STARTED"    [2015-07-12 So 20:10]
-      - State "STARTED"    from "TODO"       [2015-07-09 Do 15:51]
-      CLOCK: [2015-07-08 Mi 11:01]--[2015-07-08 Mi 11:14] =>  0:13
-      :END:      
-    :PROPERTIES:
-    :Created: [2015-07-06 Mo 13:21]
-    :Assigned_to: kordano
-    :END:
-***** DONE publish first dev blog post				     :design:
-      CLOSED: [2015-07-06 Mo 17:11] DEADLINE: <2015-07-09 Do>
-      :LOGBOOK:
-      - Note taken on [2015-07-09 Do 10:27] \\
-	See [[http://lambda-kollektiv.github.io/2015/07/06/road_to_haushalt/][blog post]]
-      - State "DONE"       from "STARTED"    [2015-07-06 Mo 17:11]
-      - State "STARTED"    from "TODO"       [2015-07-06 Mo 17:03]
-      CLOCK: [2015-07-06 Mo 17:03]--[2015-07-06 Mo 17:11] =>  0:08
-      :END:
-     :PROPERTIES:
-     :Created: [2015-07-06 Mo 13:25]
      :Assigned_to: kordano
      :END:
 **** References
