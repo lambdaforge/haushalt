@@ -129,3 +129,18 @@ Archived entries from file /home/konny/projects/haushalt/README.org
  :ARCHIVE_CATEGORY: haushalt
  :ARCHIVE_TODO: DONE
  :END:
+
+* DONE describe widgets and define data model			     :design:
+  CLOSED: [2015-07-23 Do 11:46] DEADLINE: <2015-07-30 Do>
+  :LOGBOOK:  
+  - State "DONE"       from "TODO"       [2015-07-23 Do 11:46]
+  :END:      
+   :PROPERTIES:
+   :Created: [2015-07-18 Sa 15:41]
+   :Assigned_to: jeth64
+   :ARCHIVE_TIME: 2015-07-23 Do 11:50
+   :ARCHIVE_FILE: ~/projects/haushalt/README.org
+   :ARCHIVE_OLPATH: TODOs
+   :ARCHIVE_CATEGORY: haushalt
+   :ARCHIVE_TODO: DONE
+   :END:
