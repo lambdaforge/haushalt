@@ -16,25 +16,31 @@ lein figwheel
 Go to =localhost:3449=
 **** TODOs
 ***** TODO create css for main-containers			     :design:
-       DEADLINE: <2015-07-30 Do>
+       DEADLINE: <2015-08-06 Do>
        :PROPERTIES:
        :Created: [2015-07-23 Do 11:49]
        :Assigned_to: kordano
        :END:
-***** TODO add blog post about widget definitions and data model    :writing:
-       DEADLINE: <2015-07-30 Do>
+***** DONE add blog post about widget definitions and data model    :writing:
+      CLOSED: [2015-08-04 Di 10:47] DEADLINE: <2015-07-30 Do>
+      :LOGBOOK:  
+      - State "DONE"       from "TODO"       [2015-08-04 Di 10:47]
+      :END:      
        :PROPERTIES:
        :Created: [2015-07-23 Do 11:48]
        :Assigned_to: jeth64
        :END:
-***** TODO define clojure structures and functions for summary, input and table widget :design:
-       DEADLINE: <2015-07-30 Do>
+***** DONE define clojure structures and functions for summary, input and table widget :design:
+      CLOSED: [2015-08-04 Di 10:47] DEADLINE: <2015-07-30 Do>
+      :LOGBOOK:  
+      - State "DONE"       from "TODO"       [2015-08-04 Di 10:47]
+      :END:      
        :PROPERTIES:
        :Created: [2015-07-23 Do 11:47]
        :Assigned_to: jeth64
        :END:
 ***** TODO add replikativ to backend				    :feature:
-       DEADLINE: <2015-07-30 Do>
+       DEADLINE: <2015-08-06 Do>
        :PROPERTIES:
        :Created: [2015-07-18 Sa 15:40]
        :Assigned_to: kordano jeth64
