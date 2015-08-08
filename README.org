@@ -16,7 +16,7 @@ lein figwheel
 Go to =localhost:3449=
 **** TODOs
 ***** TODO create css for main-containers			     :design:
-       DEADLINE: <2015-08-06 Do>
+       DEADLINE: <2015-08-13 Do>
        :PROPERTIES:
        :Created: [2015-07-23 Do 11:49]
        :Assigned_to: kordano
@@ -40,7 +40,7 @@ Go to =localhost:3449=
        :Assigned_to: jeth64
        :END:
 ***** TODO add replikativ to backend				    :feature:
-       DEADLINE: <2015-08-06 Do>
+       DEADLINE: <2015-08-13 Do>
        :PROPERTIES:
        :Created: [2015-07-18 Sa 15:40]
        :Assigned_to: kordano jeth64
