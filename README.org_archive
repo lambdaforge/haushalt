@@ -160,3 +160,33 @@ Archived entries from file /home/konny/projects/haushalt/README.org
    :ARCHIVE_CATEGORY: haushalt
    :ARCHIVE_TODO: CANCELED
    :END:
+
+* DONE add blog post about widget definitions and data model        :writing:
+  CLOSED: [2015-08-04 Di 10:47] DEADLINE: <2015-07-30 Do>
+  :LOGBOOK:  
+  - State "DONE"       from "TODO"       [2015-08-04 Di 10:47]
+  :END:      
+   :PROPERTIES:
+   :Created: [2015-07-23 Do 11:48]
+   :Assigned_to: jeth64
+   :ARCHIVE_TIME: 2015-08-09 Sun 18:00
+   :ARCHIVE_FILE: ~/projects/haushalt/README.org
+   :ARCHIVE_OLPATH: TODOs
+   :ARCHIVE_CATEGORY: haushalt
+   :ARCHIVE_TODO: DONE
+   :END:
+
+* DONE define clojure structures and functions for summary, input and table widget :design:
+  CLOSED: [2015-08-04 Di 10:47] DEADLINE: <2015-07-30 Do>
+  :LOGBOOK:  
+  - State "DONE"       from "TODO"       [2015-08-04 Di 10:47]
+  :END:      
+   :PROPERTIES:
+   :Created: [2015-07-23 Do 11:47]
+   :Assigned_to: jeth64
+   :ARCHIVE_TIME: 2015-08-09 Sun 18:00
+   :ARCHIVE_FILE: ~/projects/haushalt/README.org
+   :ARCHIVE_OLPATH: TODOs
+   :ARCHIVE_CATEGORY: haushalt
+   :ARCHIVE_TODO: DONE
+   :END:
