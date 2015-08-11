@@ -1,0 +1,34 @@
+{
+  "name": "haushalt",
+  "version": "0.0.0",
+  "description": "A domestic resource management application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lambda-kollektiv/haushalt.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "react",
+    "express",
+    "couchdb",
+    "domestic"
+  ],
+  "author": "Konrad Kühne and Judith Massa",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lambda-kollektiv/haushalt/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "nano": "~6.1.5",
+    "ws": "~0.7.2",
+    "path": "~0.11.14",
+    "react": "~0.13.3"
+  }
+}
