@@ -24,7 +24,7 @@ Go to =localhost:3449=
 ***** STARTED create node project structure                         :feature:
      DEADLINE: <2015-08-13 Thu>
      :LOGBOOK:  
-     CLOCK: [2015-08-11 Tue 16:02]
+     CLOCK: [2015-08-11 Tue 16:02]--[2015-08-11 Tue 16:58] =>  0:56
      - State "STARTED"    from "TODO"       [2015-08-11 Tue 16:02]
      :END:      
      :PROPERTIES:
