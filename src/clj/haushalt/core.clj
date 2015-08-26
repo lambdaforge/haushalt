@@ -13,7 +13,7 @@
   [:#view-container] (content (html [:h1 "Greetings"])))
 
 (defroutes handler
-  (GET "/*" [] (landing-page))
+  (GET "/*" [] (landing-page)
   (resources "/"))
 
 (defn start-server [port]
