@@ -7,12 +7,11 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.107"]
 
                  [http-kit "2.1.19"]
                  [ring "1.4.0"]
-                 [com.cemerick/friend "0.2.1"]
                  [enlive "1.1.6"]
                  [compojure "1.4.0"]
                  [com.taoensso/timbre "4.1.1"]
@@ -39,6 +38,8 @@
              :port 3449
              :css-dirs ["resources/public/css"]}
 
+  :clean-targets ^{:protect false}["target" "resources/public/js/compiled"]
+  
   :cljsbuild
   {:builds
    {:dev
