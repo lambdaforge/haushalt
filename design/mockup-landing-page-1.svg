@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="900"
+   id="svg3352"
+   version="1.1"
+   inkscape:version="0.91 r"
+   viewBox="0 0 1400 900"
+   sodipodi:docname="mockup-landing-page-1.svg">
+  <defs
+     id="defs3354">
+    <linearGradient
+       id="linearGradient10563"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#858585;stop-opacity:1;"
+         offset="0"
+         id="stop10565" />
+      <stop
+         style="stop-color:#858585;stop-opacity:0;"
+         offset="1"
+         id="stop10567" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 450 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1400 : 450 : 1"
+       inkscape:persp3d-origin="700 : 300 : 1"
+       id="perspective10357" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71619815"
+     inkscape:cx="421.78737"
+     inkscape:cy="759.86399"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata3357">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="nav"
+     inkscape:groupmode="layer"
+     transform="translate(0,-300)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="background">
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.71520799;image-rendering:optimizeSpeed"
+         id="rect3360"
+         width="1399.2848"
+         height="69.284798"
+         x="0.357604"
+         y="300.3576">
+        <title
+           id="title10189">navbar</title>
+      </rect>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="fields and buttons"
+       transform="translate(0,-300)">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 109.50059,633.43637 91.512637,615.62294 c -0.83821,-0.83059 -2.196112,-0.83059 -3.023142,0 l -17.982359,17.81343 c -0.838211,0.83058 -0.61469,1.50385 0.502919,1.50385 l 5.54894,0 0,18.24131 c 0,0.99418 0.72645,1.81847 1.614951,1.81847 l 6.789489,0 0,-11.99937 c 0,-0.99418 0.72644,-1.81847 1.61495,-1.81847 l 6.856542,0 c 0.89409,0 1.61495,0.80541 1.61495,1.81847 l 0,11.99937 6.789483,0 c 0.89409,0 1.61495,-0.818 1.61495,-1.81847 l 0,-18.2476 5.54894,0 c 1.10085,0 1.32437,-0.66698 0.49734,-1.49756 z"
+         id="path3"
+         style="fill:#f2f2f2">
+        <title
+           id="title10187">home button</title>
+      </path>
+      <g
+         transform="matrix(0.064,0,0,0.064,134.4,609.4)"
+         id="g3"
+         style="fill:#f2f2f2;fill-opacity:1">
+        <title
+           id="title10185">new expense button</title>
+        <g
+           id="g5"
+           style="fill:#f2f2f2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 520.8,354.2 -75,0 0,-75 c 0,-13.8 -11.3,-25 -25,-25 l -41.7,0 c -13.8,0 -25,11.3 -25,25 l 0,75 -75,0 c -13.8,0 -25,11.3 -25,25 l 0,41.7 c 0,13.7 11.2,25 25,25 l 75,0 0,75 c 0,13.8 11.2,25 25,25 l 41.7,0 c 13.8,0 25,-11.3 25,-25 l 0,-75 75,0 c 13.7,0 25,-11.3 25,-25 l 0,-41.7 c 0,-13.7 -11.3,-25 -25,-25 z"
+             id="path7"
+             style="fill:#f2f2f2;fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="M 400,87.5 C 227.3,87.5 87.5,227.3 87.5,400 87.5,572.7 227.3,712.5 400,712.5 572.7,712.5 712.5,572.7 712.5,400 712.5,227.3 572.7,87.5 400,87.5 Z m 0.3,535.6 c -123.1,0 -223,-99.8 -223,-223 0,-123.2 99.8,-223 223,-223 123.2,0 223,99.8 223,223 0,123.2 -99.9,223 -223,223 z"
+             id="path9"
+             style="fill:#f2f2f2;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="fonts"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff957d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1185.6543"
+         y="345"
+         id="text10396"
+         sodipodi:linespacing="125%"><title
+           id="title10404">expense sum</title><tspan
+           sodipodi:role="line"
+           id="tspan10398"
+           x="1185.6543"
+           y="345">12.34</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#85ffa1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1287.9688"
+         y="345"
+         id="text10400"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10402"
+           x="1287.9688"
+           y="345">98.76</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1087.9688"
+         y="345"
+         id="text10396-9"
+         sodipodi:linespacing="125%"><title
+           id="title10404-4">expense sum</title><tspan
+           sodipodi:role="line"
+           id="tspan10398-4"
+           x="1087.9688"
+           y="345">86.42</tspan></text>
+    </g>
+  </g>
+</svg>
