@@ -1,4 +1,5 @@
-FROM ubuntu:trusty
+FROM ubuntu:latest
+
 MAINTAINER Konrad Kühne <konrad.kuehne@rocketmail.com>
 
 RUN apt-get  update
