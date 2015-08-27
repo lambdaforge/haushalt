@@ -17,7 +17,6 @@
                  [com.taoensso/timbre "4.1.1"]
 
                  [com.datomic/datomic-free "0.9.5206"]
-
                  [prismatic/dommy "1.1.0"]
                  [om "0.7.3"]
                  [kioo "0.4.0"]
