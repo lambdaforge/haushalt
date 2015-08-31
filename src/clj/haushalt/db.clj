@@ -30,7 +30,7 @@
 
 (defn get-schema-elements
   "Get identifiers of schema elements"
-  []
+  [db]
   (sort
    (d/q '[:find [?ident ...]
           :where [_ :db/ident ?ident]]
@@ -46,6 +46,6 @@
   
   (initialize-db conn "database/schema.edn")
 
-  (get-schema-elements)
+  (get-schema-elements db)
   
   )
