@@ -29,3 +29,7 @@ Copyright © 2015 Konrad Kühne & Judith Massa
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
 
+
+
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/lambda-kollektiv/haushalt"
+  [[https://gitter.im/lambda-kollektiv/haushalt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/Join%20Chat.svg]]
