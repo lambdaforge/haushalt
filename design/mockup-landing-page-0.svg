@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="900"
+   id="svg3352"
+   version="1.1"
+   inkscape:version="0.91 r"
+   viewBox="0 0 1400 900"
+   sodipodi:docname="mockup-landing-page.svg">
+  <defs
+     id="defs3354">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 450 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1400 : 450 : 1"
+       inkscape:persp3d-origin="700 : 300 : 1"
+       id="perspective10357" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75496964"
+     inkscape:cx="679.3809"
+     inkscape:cy="545.25253"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata3357">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="nav"
+     inkscape:groupmode="layer"
+     transform="translate(0,-300)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.71520799;image-rendering:optimizeSpeed"
+       id="rect3360"
+       width="1399.2848"
+       height="69.284798"
+       x="0.357604"
+       y="300.3576">
+      <title
+         id="title10189">navbar</title>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10239"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10241"><rect
+           id="rect10243"
+           width="118.56033"
+           height="63.232193"
+           x="202.11716"
+           y="194.28368"
+           ry="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS'" /></flowRegion><flowPara
+         id="flowPara10245" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10249"><rect
+           id="rect10251"
+           width="247.283"
+           height="116.30205"
+           x="870.57166"
+           y="245.09525"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS'" /></flowRegion><flowPara
+         id="flowPara10263" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10255"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10257"><rect
+           id="rect10259"
+           width="60.973892"
+           height="46.294991"
+           x="238.24983"
+           y="251.87013"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS'" /></flowRegion><flowPara
+         id="flowPara10261"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10267"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:128.99999619%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10269"><rect
+           id="rect10271"
+           width="217.9252"
+           height="49.68243"
+           x="304.86945"
+           y="282.35709"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:128.99999619%;font-family:'Envy Code R VS';-inkscape-font-specification:'Envy Code R VS'" /></flowRegion><flowPara
+         id="flowPara10273"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10279"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10281"><rect
+           id="rect10283"
+           width="40.273926"
+           height="44.02034"
+           x="366.21176"
+           y="284.65186" /></flowRegion><flowPara
+         id="flowPara10285"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10287"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10289"><rect
+           id="rect10291"
+           width="115.20216"
+           height="67.43541"
+           x="356.84573"
+           y="242.50473" /></flowRegion><flowPara
+         id="flowPara10293"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10295"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,300)"><flowRegion
+         id="flowRegion10297"><rect
+           id="rect10299"
+           width="226.65791"
+           height="112.39235"
+           x="432.71057"
+           y="276.22244" /></flowRegion><flowPara
+         id="flowPara10301"></flowPara></flowRoot>    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect10387"
+       width="1091.4346"
+       height="298.02524"
+       x="148.35034"
+       y="151.62553"
+       transform="translate(0,300)">
+      <title
+         id="title10390">info box</title>
+    </rect>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="container">
+    <rect
+       style="fill:#cd3220;fill-opacity:0.92073173;stroke:none;stroke-width:1.01104832"
+       id="rect10191"
+       width="398.98895"
+       height="198.98895"
+       x="200.50552"
+       y="-699.49445"
+       transform="matrix(1,0,0,-1,0,-300)" />
+    <rect
+       style="fill:#5fc95c;fill-opacity:0.92073173;stroke:none;stroke-width:1.01104832"
+       id="rect10191-5"
+       width="398.98895"
+       height="198.98895"
+       x="801.16785"
+       y="-399.49445"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="319.98206"
+       y="301.01648"
+       id="text10275"
+       sodipodi:linespacing="125%"
+       transform="scale(0.89855664,1.1128959)"><tspan
+         sodipodi:role="line"
+         id="tspan10277"
+         x="319.98206"
+         y="301.01648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2">12.34</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="994.66296"
+       y="301.01648"
+       id="text10275-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.89855664,1.1128959)"><tspan
+         sodipodi:role="line"
+         id="tspan10277-7"
+         x="994.66296"
+         y="301.01648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2">98.76</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="799.59961"
+       y="395"
+       id="text10325"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10327"
+         x="799.59961"
+         y="395">income</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Envy Code R';-inkscape-font-specification:'Envy Code R, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="202.2998"
+       y="392.89941"
+       id="text10325-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10327-1"
+         x="202.2998"
+         y="392.89941">expenses</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="nav buttons"
+     transform="translate(0,-300)"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 109.50059,333.43637 91.512637,315.62294 c -0.83821,-0.83059 -2.196112,-0.83059 -3.023142,0 l -17.982359,17.81343 c -0.838211,0.83058 -0.61469,1.50385 0.502919,1.50385 l 5.54894,0 0,18.24131 c 0,0.99418 0.72645,1.81847 1.614951,1.81847 l 6.789489,0 0,-11.99937 c 0,-0.99418 0.72644,-1.81847 1.61495,-1.81847 l 6.856542,0 c 0.89409,0 1.61495,0.80541 1.61495,1.81847 l 0,11.99937 6.789483,0 c 0.89409,0 1.61495,-0.818 1.61495,-1.81847 l 0,-18.2476 5.54894,0 c 1.10085,0 1.32437,-0.66698 0.49734,-1.49756 z"
+       id="path3"
+       style="fill:#f2f2f2">
+      <title
+         id="title10187">home button</title>
+    </path>
+    <g
+       transform="matrix(0.064,0,0,0.064,134.4,309.4)"
+       id="g3"
+       style="fill:#f2f2f2">
+      <title
+         id="title10185">new expense button</title>
+      <g
+         id="g5"
+         style="fill:#f2f2f2">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 520.8,354.2 -75,0 0,-75 c 0,-13.8 -11.3,-25 -25,-25 l -41.7,0 c -13.8,0 -25,11.3 -25,25 l 0,75 -75,0 c -13.8,0 -25,11.3 -25,25 l 0,41.7 c 0,13.7 11.2,25 25,25 l 75,0 0,75 c 0,13.8 11.2,25 25,25 l 41.7,0 c 13.8,0 25,-11.3 25,-25 l 0,-75 75,0 c 13.7,0 25,-11.3 25,-25 l 0,-41.7 c 0,-13.7 -11.3,-25 -25,-25 z"
+           id="path7"
+           style="fill:#f2f2f2" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 400,87.5 C 227.3,87.5 87.5,227.3 87.5,400 87.5,572.7 227.3,712.5 400,712.5 572.7,712.5 712.5,572.7 712.5,400 712.5,227.3 572.7,87.5 400,87.5 Z m 0.3,535.6 c -123.1,0 -223,-99.8 -223,-223 0,-123.2 99.8,-223 223,-223 123.2,0 223,99.8 223,223 0,123.2 -99.9,223 -223,223 z"
+           id="path9"
+           style="fill:#f2f2f2" />
+      </g>
+    </g>
+  </g>
+</svg>
